@@ -58,7 +58,7 @@ arr.splice(1, 0, 'Feb') // inserts at index 1
 arr.splice(2, 1, 'May') // replaces 1 element at index 4
 
 /* 
- * concat() => 인자로 주어진 배열이나 값들을 기존 배열에 함쳐 새 배열을 리턴
+ * concat() => 인자로 주어진 배열이나 값들을 기존 배열에 합쳐 새 배열을 리턴
 */
 
 arr
